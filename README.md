@@ -2,7 +2,7 @@
 
 A landing page created with bootstrap and HTML to showcase responsive web design.
 
-# We Love Movies
+# Landing Page
 
 ## Table of Contents
 * [Description](#description)
